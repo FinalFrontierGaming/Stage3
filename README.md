@@ -1,5 +1,5 @@
 # Stage3
-Plugin and processes allowing universal sign in across Wordpress, MyBB and Moodle.
+Plugin and processes allowing universal sign in across our products.
 
 This is not an end-user facing codebase. This is specifically for the backend of a server to ensure users can move across all systems equally.
 
