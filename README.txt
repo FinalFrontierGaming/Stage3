@@ -1,0 +1,1 @@
+Stage3 separation for cross application capabilities. Handles most functions including authentication, sessions, registration and credential resets.
